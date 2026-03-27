@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning the ins and outs of Playwright, but would like to up my knowledge of Swift!
 
-📫 You can reach me at hello@smannila.com, and can visit me at my [website](https://portfolio.smannila.com).
+📫 You can reach me at sandramannila@gmail.com, and can visit me on Instagram [@sandramannila](https://instagram.com/sandramannila).
 
 <!---
 jo-finndian/jo-finndian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
